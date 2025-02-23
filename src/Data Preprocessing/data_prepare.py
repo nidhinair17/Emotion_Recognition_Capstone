@@ -1,7 +1,7 @@
 import os, shutil
 import pandas as pd
 data_folder = '../Data'
-dataset_folder = '../Dataset'
+dataset_folder = "C:/Nini/Capstone/Dataset"
 print(os.listdir(data_folder))
 
 neutral_count = 0

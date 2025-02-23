@@ -2,7 +2,7 @@ import os
 from moviepy.video.io.VideoFileClip import VideoFileClip
 
 data_folder = '../Data'
-dataset_folder = '../AudioFiles'
+dataset_folder = 'C:/Nini/Capstone/AudioFiles'
 for folder in os.listdir(data_folder):
     if os.path.isdir(f'{data_folder}/{folder}'):
         folder_path = f'{data_folder}/{folder}'
