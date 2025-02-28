@@ -1,9 +1,11 @@
 AudioFiles/
 AudioFilesSnippets/
+AudioFilesAugmented/
 Data/
 Dataset/
 Crema-D/
 src/capstone_env/
 
 Data.zip
+Crema-D.zip
 Preprocessing_Features.docx
